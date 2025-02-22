@@ -1,57 +1,68 @@
-██████╗ ██╗   ██╗████████╗██████╗  █████╗
-██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██╔══██╗
-██████╔╝██║   ██║   ██║   ██████╔╝███████║
-██╔═══╝ ██║   ██║   ██║   ██╔══██╗██╔══██║
-██║     ╚██████╔╝   ██║   ██║  ██║██║  ██║
-╚═╝      ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+<pre>
+ ________  ___  ___  _________  ________  ________     
+|\   __  \|\  \|\  \|\___   ___\\   __  \|\   __  \    
+\ \  \|\  \ \  \\\  \|___ \  \_\ \  \|\  \ \  \|\  \   
+ \ \   ____\ \  \\\  \   \ \  \ \ \   _  _\ \   __  \  
+  \ \  \___|\ \  \\\  \   \ \  \ \ \  \\  \\ \  \ \  \ 
+   \ \__\    \ \_______\   \ \__\ \ \__\\ _\\ \__\ \__\
+    \|__|     \|_______|    \|__|  \|__|\|__|\|__|\|__|
+</pre>
 
-HI, I'M PUTRA — RELENTLESS SIMPLIFIER
+**HI, I'M PUTRA — RELENTLESS SIMPLIFIER**  
+*Transform complex technology → intuitive human-centered experiences*  
 
-[ PORTFOLIO: hanifputra.com ] | [ COLLAB: work@hanifputra.com ]
+`PORTFOLIO:` <a href="https://hanifputra.com" target="_blank">hanifputra.com</a>  
+`COLLAB:` <a href="mailto:work@hanifputra.com">work@hanifputra.com</a>
 
--------------------------------------------------------------------------
-// MISSION: Transform complex technology into intuitive, human-centered experiences
-// DOMAIN: SaaS | AI-Powered Products | Design Systems
-// METHOD: Cut fluff → Amplify function → Engineer scalability
--------------------------------------------------------------------------
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+`DOMAIN:` **SaaS | AI-Powered Products | Design Systems**  
+`METHOD:` Strip → Amplify → Scale  
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
 
-■■■■■■■■■■■■■■■■■■■■■■■■■ CORE FOCUS ■■■■■■■■■■■■■■■■■■■■■■■■■
-• SYSTEM DESIGN: Architecture for scale
-• INTERACTION ALCHEMY: From cognitive load → fluid intuition
-• DENSITY ENGINEERING: Maximum value per pixel
-• ERROR ERADICATION: Anticipate → Neutralize → Fortify
+### CORE OPERATIONS
+SYSTEM DESIGN: Architecture for exponential scale
+INTERACTION SURGERY: Remove cognitive friction
+DENSITY ENGINEERING: Maximum value/pixel ratio
+ERROR NEUTRALIZATION: Predictive failure prevention
 
-■■■■■■■■■■■■■■■■■■■■■■■■ TECHNICAL TOOLKIT ■■■■■■■■■■■■■■■■■■■■■■■
-| FRONTEND   | REACT · VUE · WEB COMPONENTS · THREE.JS 
-| AI/ML      | TENSORFLOW JS · LLM INTEGRATION · PREDICTIVE UX PATTERNS 
-| DESIGN     | FIGMA · DESIGN TOKENS · ACCESSIBILITY AUDITS 
-| PROTOTYPING| FRAMER · WEBFLOW · PRINCIPLE 
 
-■■■■■■■■■■■■■■■■■■■■■■■■■ PRINCIPLE ■■■■■■■■■■■■■■■■■■■■■■■■■
-1. CLARITY > DECORATION
-2. SYSTEM > SINGLETON
-3. EVIDENCE > OPINION
-4. MAINTAINABILITY > NOVELTY
+### TECHNICAL ARMORY
+| FRONTEND | React · Vue · Web Components · Three.js
+| AI/ML | TF.js · LLM Integration · Predictive Patterns
+| DESIGN | Figma (Variables) · Accessibility Audits
+| PROTOTYPING | Framer · Principle · ProtoPie
 
-■■■■■■■■■■■■■■■■■■■■■■■■■ FEATURED PROJECTS ■■■■■■■■■■■■■■■■■■■■■■■■■
-1. [AI COMMAND CENTER] Enterprise SaaS interface framework (12k+ daily users)
-   → Reduced cognitive load by 40% through spatial computation models
+### PRINCIPLES [ NON-NEGOTIABLE ]
+Clarity supersedes decoration
+Systems outlive features
+Data defeats opinions
+Maintainability > Novelty
 
-2. [NEURO DESIGN SYSTEM] Atomic component library with embedded analytics
-   → 92% faster implementation for AI product suite
 
-3. [ERROR ANTIDOTE] Predictive error prevention system
-   → Decreased support tickets by 65% in v1 implementation
+### ACTIVE PROJECTS
+[1] AI COMMAND CENTER — Enterprise SaaS Framework
+↓ 40% cognitive load reduction | 12k+ DAU
 
-■■■■■■■■■■■■■■■■■■■■■■■■■ COLLABORATION ■■■■■■■■■■■■■■■■■■■■■■■■■
-FOR: 
-- Enterprise-scale SaaS transformations
-- AI interface pattern libraries
-- Zero-fluff design systems
+[2] NEURO DESIGN SYSTEM — Component Library
+↓ 92% faster implementation | Embedded analytics
 
-NO: 
-- Superficial redesigns
-- Dark pattern engineering
-- Decorative "innovation"
+[3] ERROR ANTIDOTE — Prevention Architecture
+↓ 65% support tickets | Predictive patterns
 
-CONTACT: work@hanifputra.com | SCHEDULE: cal.com/putra
+
+### COLLABORATION PARAMETERS
+
+ACCEPTING:
+Enterprise-scale SaaS design transformations (any industries)
+AI interface pattern libraries
+Mission-critical design systems
+
+DECLINING:
+Superficial redesigns
+Dark pattern requests
+Innovation theater
+
+<pre>
+CONNECT → <a href="mailto:work@hanifputra.com">work@hanifputra.com</a>
+SCHEDULE → <a href="https://hanifputra.com/connect" target="_blank">hanifputra.com/connect</a>
+</pre>
